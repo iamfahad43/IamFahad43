@@ -28,3 +28,12 @@
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fahadmahmood43)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=firefox)](https://docs.google.com/document/d/1YQum5qcVeTALq_QXy1pT1koUOIklctKp1BZ1v-7R0tI/edit?usp=sharing)  
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamfahad43&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfahad43&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamfahad43&theme=radical)
