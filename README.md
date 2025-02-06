@@ -1,9 +1,30 @@
-Freshly Graduated from [The University of Eastern Finland](https://www.uef.fi/en/degree-programme/masters-degree-programme-in-information-technology), I'm a passionate Data Scientist and Developer with hands-on expertise in Python, Data Science, Robot Operating Systems, Machine Learning, and Data Scraping. I am passionate about leveraging technology to solve complex problems. With a proven track record of delivering high-quality work, I excel at developing innovative solutions that drive business results. My strong analytical and critical thinking skills, combined with my quick learning abilities, make me a valuable asset to any organization committed to excellence.
+# 👋 Hi, I'm Fahad!
+🚀 Data Engineer | ML Enthusiast | Backend Developer  
 
-## 📄 CV
-[View my CV](https://docs.google.com/document/d/1YQum5qcVeTALq_QXy1pT1koUOIklctKp1BZ1v-7R0tI/edit?usp=sharing)
+🌍 Based in Helsinki, Finland  
+📚 Master's in IT | [The University of Eastern Finland](https://www.uef.fi/en/degree-programme/masters-degree-programme-in-information-technology) (2022-2024)  
+📊 Exploring Business Intelligence & Visualization  
 
-## 📫 Contact
-- Email: [fahad.mahmood.ds@gmail.com](fahad.mahmood.ds@gmail.com)
-- LinkedIn: [linkedin.com/in/fahadmahmood43](https://linkedin.com/in/fahadmahmood43)
-- GitHub: [github.com/iamfahad43](https://github.com/iamfahad43)
+## 🏆 Achievements
+- 🎓 Completed Udemy course on Azure Data Factory & ETL
+- 📈 Built a Sales Dashboard Project using Power BI & Python
+- 🏅 Contributed to Open Source ML Projects
+- 🔥 Published 5+ Data Engineering Projects on GitHub
+
+## 🚀 Skills
+- **Languages:** Python, SQL, R, HTML, CSS
+- **Web Development:** Django, Flask, FastAPI, AWS, Azure, API's
+- **Data Engineering:** Azure Data Factory, Power BI, ETL, Pandas, Seaborn, Matplotlib
+- **Data Scraping:** Scrapy, Selenium
+- **Machine Learning:** CNN, RNN, BERT, GPT-3, Universal Sentence Encoder
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Github, Slack, Linux, ROS
+- **Code Editor:** Visual Studio Code, Pycharm, Anaconda (jupyter notebook)  
+
+## 📂 Featured Projects
+🔹 [Global Environmental Insights Dashboard](https://github.com/iamfahad43/Global-Environmental-Insights)  
+🔹 [Generative Adversarial Networks (GANs)](https://github.com/iamfahad43/GAN)  
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fahadmahmood43)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=firefox)](https://docs.google.com/document/d/1YQum5qcVeTALq_QXy1pT1koUOIklctKp1BZ1v-7R0tI/edit?usp=sharing)  
